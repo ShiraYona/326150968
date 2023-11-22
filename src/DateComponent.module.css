@@ -1,0 +1,9 @@
+.stylesDate{
+    height: auto;
+    margin: 5px;
+    width: 150px;
+    float: right;
+    display: 'inline';
+    border-style: solid;
+    direction: rtl
+};
